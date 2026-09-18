@@ -1,1 +1,1 @@
-# -campus-faq-bot-
+# campus-faq-bot
